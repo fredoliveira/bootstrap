@@ -1,9 +1,0 @@
-.container_12 { margin-top: 60px; }
-.container_12 .grid_4 { background: #eeeeee; }
-.container_12 .grid_4:first-of-type { background: #ffff00; }
-.container_12 .grid_4:last-of-type { background: #ffff99; }
-#footer {
-  margin-top: 100px;
-  font-size: 12px;
-  color: #999999;
-}
